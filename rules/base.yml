@@ -107,7 +107,7 @@ rule-providers:
     path: ./ruleset/applications.yaml
     interval: 86400
 
-rules:
+
   - RULE-SET,applications,🎯 全球直连
   - DOMAIN,clash.razord.top,🎯 全球直连
   - DOMAIN,yacd.haishan.me,🎯 全球直连
