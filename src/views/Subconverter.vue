@@ -266,6 +266,11 @@ export default {
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
+                label: "test",
+                value:
+                  "https://raw.githubusercontent.com/wyk19/subconverter-web/master/rules/temp.ini"
+              },
+              {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告 (与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
