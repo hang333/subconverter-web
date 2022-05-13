@@ -257,19 +257,24 @@ export default {
         },
         backendOptions: [{ value: "https://fragrant-rain-8bc4.normalpeople.workers.dev/sub?" }],
         remoteConfig: [
-        {
+         {
             label: "NormalPeople",
             options: [
               {
                 label: "RULE-SET",
                 value:
                   "https://raw.githubusercontent.com/wyk19/subconverter-web/master/rules/rule-set.ini"
-              },
+              }
+            ]
+          },
+        {
+            label: "ACL4SSR",
+            options: [
               {
                 label: "ACL4SSR_Online_Full 全分组 重度用户使用",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
-              },
+              }
             ]
           }
         ]
