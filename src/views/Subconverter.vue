@@ -258,7 +258,7 @@ export default {
         backendOptions: [{ value: "https://fragrant-rain-8bc4.normalpeople.workers.dev/sub?" }],
         remoteConfig: [
         {
-            label: "normalpeople",
+            label: "NormalPeople",
             options: [
               {
                 label: "RULE-SET",
