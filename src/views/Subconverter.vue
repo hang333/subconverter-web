@@ -258,6 +258,16 @@ export default {
         backendOptions: [{ value: "https://fragrant-rain-8bc4.normalpeople.workers.dev/sub?" }],
         remoteConfig: [
         {
+            label: "normalpeople",
+            options: [
+              {
+                label: "RULE-SET",
+                value:
+                  "https://raw.githubusercontent.com/wyk19/subconverter-web/master/rules/rule-set.ini"
+              }
+            ]
+          },
+        {
             label: "ACL4SSR",
             options: [
               {
