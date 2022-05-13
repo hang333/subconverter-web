@@ -106,21 +106,3 @@ rule-providers:
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
     path: ./ruleset/applications.yaml
     interval: 86400
-
-
-  - RULE-SET,applications,🎯 全球直连
-  - DOMAIN,clash.razord.top,🎯 全球直连
-  - DOMAIN,yacd.haishan.me,🎯 全球直连
-  - RULE-SET,private,🎯 全球直连
-  - RULE-SET,reject,🛑 全球拦截
-  - RULE-SET,icloud,🎯 全球直连
-  - RULE-SET,apple,🎯 全球直连
-  - RULE-SET,google,🎯 全球直连
-  - RULE-SET,proxy,🚀 节点选择
-  - RULE-SET,direct,🎯 全球直连
-  - RULE-SET,lancidr,🎯 全球直连
-  - RULE-SET,cncidr,🎯 全球直连
-  - RULE-SET,telegramcidr,🚀 节点选择
-  - GEOIP,LAN,🎯 全球直连
-  - GEOIP,CN,🎯 全球直连
-  - MATCH,🚀 节点选择
