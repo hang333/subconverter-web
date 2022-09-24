@@ -267,6 +267,16 @@ export default {
               }
             ]
           },
+          {
+            label: "WeShine",
+            options: [
+              {
+                label: "WeShine-Rule",
+                value:
+                  "https://raw.githubusercontent.com/weison94/subconverter-web/master/rules/WeShine.ini"
+              }
+            ]
+          },
         {
             label: "ACL4SSR",
             options: [
