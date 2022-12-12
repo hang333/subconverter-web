@@ -106,3 +106,10 @@ rule-providers:
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
     path: ./ruleset/applications.yaml
     interval: 86400
+    
+  gooo:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/wyk19/subconverter-web/master/rules/gooo.txt"
+    path: ./ruleset/gooo.yaml
+    interval: 86400
