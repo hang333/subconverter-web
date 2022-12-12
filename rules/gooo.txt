@@ -1,0 +1,6 @@
+payload:
+  - '+.copymanga.info'
+  - '+.copymanga.net'
+  - '+.copymanga.org'
+  - '+.mangafuna.xyz'
+  - '+.mangafunc.fun'
