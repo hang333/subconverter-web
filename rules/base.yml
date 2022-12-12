@@ -110,6 +110,6 @@ rule-providers:
   gooo:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/wyk19/subconverter-web/master/rules/gooo.txt"
+    url: "https://raw.githubusercontent.com/hang333/subconverter-web/master/rules/gooo.txt"
     path: ./ruleset/gooo.yaml
     interval: 86400
