@@ -4,3 +4,4 @@ payload:
   - '+.copymanga.org'
   - '+.mangafuna.xyz'
   - '+.mangafunc.fun'
+  - '+.appinn.com'
