@@ -1,0 +1,3 @@
+[AutoProxy 0.2.9]
+@@||ustc.edu.cn
+@@||moegirl.org.cn
