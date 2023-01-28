@@ -1,3 +1,5 @@
 [AutoProxy 0.2.9]
 @@||ustc.edu.cn
 @@||moegirl.org.cn
+@@||ah.gov.cn
+@@||bilivideo.cn
