@@ -5,3 +5,5 @@ payload:
   - '+.mangafuna.xyz'
   - '+.mangafunc.fun'
   - '+.appinn.com'
+  - '+.manhuaren.com'
+  
