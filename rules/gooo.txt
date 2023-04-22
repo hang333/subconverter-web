@@ -6,4 +6,10 @@ payload:
   - '+.mangafunc.fun'
   - '+.appinn.com'
   - '+.manhuaren.com'
-  
+  - '+.acgtracker.com'
+  - '+.acg.rip'
+  - '+.bangumi.moe'
+  - '+.nyaatracker.com'
+  - '+.acgnx.se'
+  - '+.skyey.win'
+  - '+.skyey2.com'
