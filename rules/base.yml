@@ -85,6 +85,13 @@ rule-providers:
     url: "https://raw.githubusercontent.com/hang333/subconverter-web/master/rules/gooo.txt"
     path: ./ruleset/gooo.yaml
     interval: 86400
+    
+  whitee:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/hang333/subconverter-web/master/rules/whitee.txt"
+    path: ./ruleset/whitee.yaml
+    interval: 86400
 
   telegramcidr:
     type: http
