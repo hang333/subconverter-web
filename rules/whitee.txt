@@ -1,0 +1,5 @@
+payload:
+  - '+.moecube.com'
+  - '+.moenext.com'
+  - '+.mycard.moe'
+  - '+.ygobbs.com'
